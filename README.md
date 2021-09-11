@@ -1,6 +1,6 @@
-# smash-CLI
+# smash-terminal
 ### Description 
-Smash CLI is an attempt at recreating the bash command-line-interface from scratch.
+Smash Terminal is an attempt at recreating the bash command-line-interface from scratch.
 
 ### Usage
 To complile:
